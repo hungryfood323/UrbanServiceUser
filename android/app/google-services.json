@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "730636071640",
+    "firebase_url": "https://eshieldvendor-default-rtdb.firebaseio.com",
+    "project_id": "eshieldvendor",
+    "storage_bucket": "eshieldvendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730636071640:android:762e7b1299c4eb23201dad",
+        "android_client_info": {
+          "package_name": "com.eshieldvendor.primocys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730636071640-h3ocuf7g3c748hdphosn9mg60t2vpdi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eshieldvendor.primocys",
+            "certificate_hash": "69590abd4f8e534b3ff86a151dd84ffcf2e99f67"
+          }
+        },
+        {
+          "client_id": "730636071640-hifj5vm68fftde162950tp7vqph1ekho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eshieldvendor.primocys",
+            "certificate_hash": "fa564ae34af653161748760eecba9d3233871ffa"
+          }
+        },
+        {
+          "client_id": "730636071640-jmq2cgol8jcfe0agmcc15ebbqiptf8jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eshieldvendor.primocys",
+            "certificate_hash": "1621074e0dfe187af9cd15cf11a67d9548b0cd7c"
+          }
+        },
+        {
+          "client_id": "730636071640-k41sra1b8id5tmofi94cg4eo77qg4h1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eshieldvendor.primocys",
+            "certificate_hash": "5b59e950a4aa2b75c91b836360c8f3d203abd90d"
+          }
+        },
+        {
+          "client_id": "730636071640-ipl3fgbkbkv1ehfhoterh2b1q3af4u6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4DCfZusiGrghfV6Q7MdUPrU7s30RPTho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730636071640-ipl3fgbkbkv1ehfhoterh2b1q3af4u6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730636071640-cmt9iltmfogmah5454bh8fucu2t3rvmb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eshieldvendor.primocys"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730636071640:android:290a1325f848f8b6201dad",
+        "android_client_info": {
+          "package_name": "com.primocys.eshield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730636071640-1i4go6ggsf8rd6cb992p8m65bef4kqcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.primocys.eshield",
+            "certificate_hash": "5b59e950a4aa2b75c91b836360c8f3d203abd90d"
+          }
+        },
+        {
+          "client_id": "730636071640-e3ee6u3jibh2643nhingpqergu4jqrj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.primocys.eshield",
+            "certificate_hash": "cbcece5f8d8f7ed5a4f39fbe06554f6b541ffcc8"
+          }
+        },
+        {
+          "client_id": "730636071640-h8tl517ttntef0k78m7tfhu93e11nhvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.primocys.eshield",
+            "certificate_hash": "364403d882645c55df7c28674a4021a00f2902d3"
+          }
+        },
+        {
+          "client_id": "730636071640-ke5vv63kog8sldfe4mo9duab1k0tiuar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.primocys.eshield",
+            "certificate_hash": "67a4b3f3a9af3777c5d203091db0b7e424ec5b0d"
+          }
+        },
+        {
+          "client_id": "730636071640-tb7ctqim4j3jrderfv57shu32q1rbqqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.primocys.eshield",
+            "certificate_hash": "69590abd4f8e534b3ff86a151dd84ffcf2e99f67"
+          }
+        },
+        {
+          "client_id": "730636071640-ipl3fgbkbkv1ehfhoterh2b1q3af4u6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4DCfZusiGrghfV6Q7MdUPrU7s30RPTho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730636071640-ipl3fgbkbkv1ehfhoterh2b1q3af4u6o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730636071640-cmt9iltmfogmah5454bh8fucu2t3rvmb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eshieldvendor.primocys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
